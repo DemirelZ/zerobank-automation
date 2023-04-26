@@ -1,4 +1,4 @@
-Feature: Taktik maktik yok Bam Bam Bam
+Feature: The user should NOT able to complete pay operation with invalid credentials
 @wip6
   Scenario Outline: The user should NOT able to complete pay operation with invalid credentials
     Given The user go to ZeroBank login page
